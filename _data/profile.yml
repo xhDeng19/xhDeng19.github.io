@@ -19,7 +19,7 @@ github: xhDeng19
 # linkedin: your-linked-in-id
 # orcid: 0000-0000-0000-0000
 
-short_bio_text_justify: false
+short_bio_text_justify: true
 short_bio: >-
   <p>
     Hi, I'm Xihan Deng (邓熙涵), an undergraduate student at Shanghai Jiao Tong University, majoring in Computer Science and Technology with a double major in Mathematics and Applied Mathematics. I expect to graduate in June 2027. I currently have a GPA of 4.08/4.30 (93.9/100) and received the China National Scholarship in 2025.
@@ -45,7 +45,7 @@ portrait_caption: >-
 education:
 - name: Shanghai Jiao Tong University
   logo: /assets/images/badges/SJTU_red.png
-  position: B.Eng. in Computer Science and Technology; Double Major in Mathematics and Applied Mathematics
+  position: B.Eng. in Computer Science and Technology. Double Major in Mathematics and Applied Mathematics
   date: Sep. 2023 - Expected Jun. 2027
 
 # experience:
