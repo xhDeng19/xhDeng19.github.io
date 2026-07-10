@@ -8,6 +8,10 @@ body_attr: >-
 
 {% assign pubs_by_year = site.publications | sort: "date" | reverse | group_by_exp: "item", "item.date | date: '%Y'" %}
 
+<p class="text-muted mb-0">
+    Authors are listed alphabetically, following the convention in theoretical computer science.
+</p>
+
 <div class="row">
     <div class="col-12 col-lg-10">
         {% for year in pubs_by_year %}
