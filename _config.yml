@@ -13,12 +13,20 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-baseurl: "" # the subpath of your site, e.g. /blog
+title: Xihan Deng
+description: >-
+  Xihan Deng is an undergraduate student at Shanghai Jiao Tong
+  University working on theoretical computer science, algorithmic
+  game theory, online algorithms, and approximation algorithms.
+
+url: "https://xhdeng19.github.io"
+baseurl: ""
+
+plugins:
+  - jekyll-email-protect
 
 # Build settings
 markdown: kramdown
-plugins:
-  - jekyll-email-protect
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
