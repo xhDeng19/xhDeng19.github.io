@@ -24,6 +24,8 @@ baseurl: ""
 
 plugins:
   - jekyll-email-protect
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 # Build settings
 markdown: kramdown
