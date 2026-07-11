@@ -19,6 +19,15 @@ description: >-
   University working on theoretical computer science, algorithmic
   game theory, online algorithms, and approximation algorithms.
 
+author:
+  name: Xihan Deng
+  url: "https://xhdeng19.github.io/"
+
+social:
+  name: Xihan Deng
+  links:
+    - "https://github.com/xhDeng19"
+
 url: "https://xhdeng19.github.io"
 baseurl: ""
 
