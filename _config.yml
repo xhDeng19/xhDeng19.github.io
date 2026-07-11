@@ -15,9 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Xihan Deng
 description: >-
-  Xihan Deng is an undergraduate student at Shanghai Jiao Tong
-  University working on theoretical computer science, algorithmic
-  game theory, online algorithms, and approximation algorithms.
+  Academic homepage of Xihan Deng, an undergraduate student at Shanghai Jiao Tong University interested in theoretical computer science, algorithmic game theory, and algorithms.
 
 author:
   name: Xihan Deng
