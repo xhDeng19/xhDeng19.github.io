@@ -5,6 +5,40 @@ body {
     padding-top: 5.0rem;
 }
 
+@media (max-width: 575.98px) and (orientation: portrait) {
+    body {
+        -webkit-hyphens: auto;
+        -ms-hyphens: auto;
+        hyphens: auto;
+        -webkit-hyphenate-character: "-";
+        hyphenate-character: "-";
+        overflow-wrap: break-word;
+        word-break: normal;
+    }
+
+    .text-profile-bio {
+        text-align: left !important;
+    }
+
+    code,
+    pre,
+    kbd,
+    samp,
+    .katex,
+    .navbar,
+    .badge,
+    .btn,
+    .email-text,
+    .inline-badge,
+    .no-break,
+    .abstract-links {
+        -webkit-hyphens: none;
+        -ms-hyphens: none;
+        hyphens: none;
+        overflow-wrap: normal;
+    }
+}
+
 h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6 {
     font-weight: 700;
