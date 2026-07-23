@@ -9,6 +9,8 @@ body_attr: >-
 
 {% assign pubs_by_year = site.publications | sort: "date" | reverse | group_by_exp: "item", "item.date | date: '%Y'" %}
 
+<h1 class="sr-only">Publications in Theoretical Computer Science</h1>
+
 <p class="text-muted mb-0">
     Authors are listed alphabetically, following the convention in theoretical computer science.
 </p>
