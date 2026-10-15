@@ -22,21 +22,37 @@ github: xhDeng19
 short_bio_text_justify: true
 short_bio: >-
   <p>
-    Hi, I'm Xihan Deng (邓熙涵), an undergraduate student at Shanghai Jiao Tong University, majoring in Computer Science and Technology with a double major in Mathematics and Applied Mathematics. I expect to graduate in June 2027. I currently have a GPA of 4.07/4.30 (93.8/100) and received the China National Scholarship in 2025.
+    Hi! I'm Xihan Deng (邓熙涵), an undergraduate student at
+    Shanghai Jiao Tong University, majoring in Computer Science
+    and Technology with a second major in Mathematics and
+    Applied Mathematics. I expect to graduate in June 2027.
+    My current GPA is 4.07/4.30 (93.8/100), and I was awarded
+    the China National Scholarship in 2025.
   </p>
+
   <p>
-    My research interests lie broadly in theoretical computer science, particularly algorithmic game theory, online algorithms, and approximation algorithms. I am currently advised by <a href="http://www.zyhwtc.com/">Prof. Yuhao Zhang</a> at the John Hopcroft Center and have worked with <a href="https://yj10027.github.io/">Prof. Yaonan Jin</a> and Wenqian Wang on the price of anarchy in selfish load balancing. Our paper, <em>The Price of Anarchy for Selfish Load Balancing</em>, will appear at FOCS 2026.
+    I am currently a visiting student at DIMACS, Rutgers
+    University, working with
+    <a href="https://people.cs.rutgers.edu/~kn.w/">Prof. Kangning Wang</a>.
+    Since July 2025, I have also been working with
+    <a href="http://www.zyhwtc.com/">Prof. Yuhao Zhang</a> and
+    <a href="https://yj10027.github.io/">Prof. Yaonan Jin</a>.
   </p>
+
   <p>
-    From August to December 2026, I will be a visiting student intern at DIMACS, Rutgers University, supervised by <a href="https://people.cs.rutgers.edu/~kn.w/">Prof. Kangning Wang</a> and <a href="https://people.cs.rutgers.edu/~lirong.xia/">Prof. Lirong Xia</a>.
+    My research interests lie in algorithm design, algorithmic game theory, and economics and computation. I am particularly interested in understanding how strategic behavior and economic incentives shape algorithmic outcomes, and in designing algorithms and mechanisms with provable guarantees. More broadly, I hope to explore these questions in a world increasingly shaped by AI.
   </p>
+
   <p>
-    I plan to apply to Ph.D. programs for Fall 2027. 
-    Please feel free to contact me by email if you are interested in my research.
+    I plan to apply to Ph.D. programs for Fall 2027 admission.
+    I welcome discussions and potential collaborations related
+    to my research interests.
   </p>
+
   <p>
-  My CV is available below.
+    You can find my CV below.
   </p>
+
 
 portrait_url: /assets/images/photos/portrait.jpg
 portrait_caption: >-
