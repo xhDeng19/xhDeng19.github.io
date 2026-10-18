@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Xihan Deng
 description: >-
-  Academic homepage of Xihan Deng, an undergraduate at Shanghai Jiao Tong University working on theoretical computer science and algorithmic game theory.
+  Academic homepage of Xihan Deng, an undergraduate at Shanghai Jiao Tong University with research interests in algorithm design, algorithmic game theory, and economics and computation.
 
 author:
   name: Xihan Deng
